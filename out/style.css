@@ -1,0 +1,61 @@
+main{
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+nav{
+    top: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+}
+
+article{
+    background-color: lightblue;
+    padding: 1em;
+}
+
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: azure;
+}
+
+p{
+    background-color: beige;
+}
+
+figure{
+    background: lightblue;
+    width: 100%;
+
+}
+
+figure > img{ 
+    width: 100%;
+    object-fit: cover;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    object-fit: cover;
+    flex: 1 1 50%; 
+    box-sizing: border-box; 
+    padding: 10px; 
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto; 
+    transform: rotate(90deg);
+}

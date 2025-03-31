@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Du mode d'existence des objets techniques</title>
+            <author>Gilbert Simondon</author>
+            <respStmt>
+               <resp>Édition numérique réalisée par</resp>
+               <name>Joël Féral</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Aubier</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1958</date>
+            <availability>
+               <p>Disponible en librairie et en ligne.</p>
+            </availability>
+         </publicationStmt>
+         
+         
+         <sourceDesc> 
+            <!-- AUTORITES -->
+            <listPerson>
+               <person xml:id="SIM_GIL_01">
+                  <persName>Simondon, Gilbert</persName>
+                  <idno type="BnF">ark:/12148/cb12121582</idno>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+     
+     <!-- PAGE DE GARDE DU LIVRE -->
+     <front>
+        <titlePage>
+           <docTitle>
+              <titlePart type="main">Du mode d'existence des objets techniques</titlePart>
+              <titlePart type="sub">Nouvelle édition revue et corrigée</titlePart>
+           </docTitle>
+           <docAuthor>Gilbert Simondon</docAuthor>
+           <docImprint>
+              <publisher>Aubier-Montaigne</publisher>
+              <pubPlace>Paris</pubPlace>
+           </docImprint>
+        </titlePage>
+     </front>
+  
+      <body>
+         <div type="chapter" n="0">
+            <head>Introduction</head>
+            <div type="introduction">
+               <p>Cette étude est animée par l’intention de susciter une prise de
+                  conscience du sens des objets techniques. La culture s’est constituée
+                  en système de défense contre les techniques; or, cette défense se
+                  présente comme une défense de l’homme, supposant que les objets
+                  techniques ne contiennent pas de réalité humaine. Nous voudrions
+                  montrer que la culture ignore dans la réalité technique une réalité
+                  humaine, et que, pour jouer son rôle complet, la culture doit inco                  porer les êtres techniques sous forme de connaissance et de sens des
+                  valeurs. La prise de conscience des modes d’existence des objets
+                  techniques doit être effectuée par la pensée philosophique, qui se
+                  trouve avoir à remplir dans cette œuvre un devoir analogue à
+                  celui qu’elle a joué pour l’abolition de l’esclavage et l’affirmation de
+                  la valeur de la personne humaine.
+               </p>
+               <p>
+                  [...]
+               </p>
+               <p>
+                  Cette modification du regard philosophique sur l’objet technique
+                  annonce la possibilité d’une introduction de l’être technique dans la
+                  culture : cette intégration, qui n’a pu s’opérer ni au niveau des élé-
+                  ments ni au niveau des individus de manière définitive, le pourra
+                  avec plus de chances de stabilité au niveau des ensembles; la réalité
+                  technique devenue régulatrice pourra s’intégrer à la culture, rég                  latrice par essence. Cette intégration ne pouvait se faire que par
+                  addition au temps où la technicité résidait dans les éléments, par
+                  effraction et révolution au temps où la technicité résidait dans les
+                  nouveaux individus techniques; aujourd’hui, la technicité tend à
+                  résider dans les ensembles; clle peut alors devenir un fondement de
+                  la culture à laquelle elle apportera un pouvoir d’unité et de stabilité,
+                  en la rendant adéquate à la réalité qu’elle exprime et qu’elle régle.
+               </p>
+            </div>
+         </div>
+         
+         <div type="planches">
+            <head>Table des planches</head>
+            <figure n="1">
+               <head>Planche 1</head>
+               <figDesc>Concrétisation du moteur à essence : moteurs à quatre temps et à deux temps, pp.20-26.</figDesc>
+               <graphic url="img/planche_01.png" change="90"/>
+               <!-- change indique la valeur de rotation a effectuer pour qu'elle soit "droite"-->
+            </figure>
+            <figure n="2">
+               <head>Planche 2</head>
+               <figDesc>Concrétisation du moteur à essence : développement des ailettes à refroidissement, p. 23.</figDesc>
+               <graphic url="img/planche_02.png" change="90"/>
+               <!-- change indique la valeur de rotation a effectuer pour qu'elle soit "droite"-->
+            </figure>
+            <figure n="3">
+               <head>Planche 3</head>
+               <figDesc>Concrétisation du moteur à essence : pistons, bielles, magnéto, volant magnétique, pp.23-26.</figDesc>
+               <graphic url="img/planche_03.png"/>
+            </figure>
+            <figure n="4">
+               <head>Planche 4</head>
+               <figDesc>Concrétisation du tube électronique, pp. 28 et 29</figDesc>
+               <graphic url="img/planche_04.g"/>
+            </figure>
+         </div>
+         
+         <div type="part" n="1">
+            <head>Première partie : genèse et évolution des objets techniques</head>
+            <div type="chapter" n="1">
+               <head>
+                  Genèse de l'objet technique : le processus de concrétisation
+               </head>
+               <div type="section" n="1">
+                  <head>Objet technique abstrait et object technique concret</head>
+                  <p>
+                     L’objet technique est soumis à une genèse, mais il est difficile de
+                     définir la genèse de chaque objet technique, car l’individualité des
+                     objets techniques se modific au cours de la genèse; on ne peut que
+                     difficilement définir les objets techniques par leur appartenance à
+                     une espèce lechnique; les espèces sont faciles à distinguer so                     mairement, pour l’usage pratique, tant qu'on accepte de saisir
+                     l'objet technique par la fin pratique à laquelle il répond; mais il
+                     s'agit là d’une spécificité illusoire, car aucune structure fixe ne co                     respond à un usage défini. Un même résultat peut.être obtenu à
+                     partir de fonctionnements et de structures très différents : un
+                     moteur à vapeur, un moteur à e3sence, une turbine, un moteur à
+                     ressort ou à poids sont tous également des moteurs; pourtant, il y a
+                     plus d’analogie réelle entre un moteur à ressort et un arc ou une
+                     arbaléte qu’entre ce même moteur et un moteur à vapeur; une ho                     loge à poids possède un moteur analogue à un treuil, alors qu’une
+                     horloge à entretien électrique est analogue à une sonnette ou à un
+                     vibreur. L'usage réunit des structures ct des fonctionnements hété
+                     rogènes sous des genres et des espèces qui tirent leur signification
+                     du rapport entre ce fonctionnement et un autre fonctionnement,
+                     celui de l’être humain dans l’action. Donc, ce à quoi on donne un
+                     nom unique, comme, par exemple, celui de moteur, peut-être mu                     tiple dans l’instant et peut varier dans le temps en changeant d’ind                     vidualité.
+                  </p>
+                  <p>
+                     Cependant, au lieu de partir de l’individualité de Pobjet technique, ou même de sa spécificité, qui est très instabie, pour essayer de définir les lois de sa genèse dans le cadre de cette individualité ou de cette spécificité, il est préférable de renverser le problème : c’est à partir des critères de la genèse que l’on peut définir l’individualité et la spécificité de l’objet technique. L’objet technique individuel n’est pas telle ou telle chose, donnée hic et nunc, 
+                     mais ce dont il y a genèse 
+                     <note n="1" type="gloss" place="foot">
+                        Selon des modalités déterminées qui distinguent la genèse de l'objet
+                        technique de celles des autres types d'objets : objet esthétique, être vivant.
+                        Ces modalités spécifiques de la genèse doivent être distinguées d'une spéc                        ficité statique que l’on pourrait établir après la genèse en considérant les
+                        earactères des divers types d'objets; l’emploi de la méthode génétique a
+                        précisément pour objet d’éviter l'usage d’une pensée classificatrice interv                        mant après la genèse pour répartir la totalité des objets en genres et en espè-
+                        ces convenant au discours. L'évolution passée d’un être technique reste à
+                        titre essentiel dans cet être sous forme de technicité. L'être technique, po                        teur de technicité selon la démarche que nous nommerons analectique, ne
+                        peut être l'objet d’une connaissance adéquate que si cette dernière saisit en
+                        lui le sens temporel de son évolution; cette connaissance adéquate est la
+                        culture technique, distincte du savoir technique qui se borne à saisir dans
+                        l’actualité les schèmes isolés du fonctionnement. Les relations qui existent
+                        au niveau de la technicité entre un objet technique et un autre étant hor                        zontales aussi bien que verticales, une connaissance qui procède par genre
+                        et espèces ne convient pas : nous tenterons d'indiquer en quel sens la relation
+                        entre les objets techniques est transductive.
+                     </note>. L’unité de l’objet technique, son individualité, sa spécificité, sont les caractères de consistance et de convergence de sa genèse. La genèse de l’objet technique fait partie de son être. L’objet technique est ce qui n’est pas antérieur à son devenir, mais présent à chaque étape de ce devenir ; l’objet technique est unité de devenir.
+                     
+                     Le moteur à essence n’est pas tel ou tel moteur donné dans le temps et dans l’espace, mais le fait qu’il y a une suite, une continuité qui va des premiers moteurs à ceux que nous connaissons et qui sont encore en évolution. À ce titre, comme dans une lignée phylogénétique, un stade défini d’évolution contient en lui des structures et des schèmes dynamiques qui sont au principe d’une évolution des formes. L’être technique évolue par convergence et par adaptation à soi ; il s’unifie intérieurement selon un principe de résonance interne.
+                     
+                     Le moteur d’automobile d’aujourd’hui n’est pas le descendant du moteur de 1910 seulement parce que le moteur de 1910 était celui que construisaient nos ancêtres. Il n’est pas non plus son descendant parce qu’il est plus perfectionné relativement à l’usage ; en fait, pour tel ou tel usage, un moteur de 1910 reste supérieur à un moteur de 1956. Par exemple, il peut supporter un échauffement important sans grippage ou coulage, étant construit avec des jeux plus importants et sans alliages fragiles comme le régule ; il est plus autonome, possédant un allumage par magnétos.
+                  </p>
+                  <p>[...]</p>
+               </div>
+            </div>
+            <div type="chapter" n="2">
+               <head>Evolution de la réalité technique; élément, individu, ensemble</head>
+               <div type="section" n="1">
+                  <head>Hypertélie et auto-conditionnement dans l'évolution technique</head>
+                  <p>L’évolution des objets techniques manifeste des phénomènes
+                     d’hypertélie qui donnent à chaque objet technique une spécial                     sation exagérée et le désadaptent par rapport à un changement
+                     même léger survenant dans les conditions d’utilisation ou de fabr                     cation; le schème qui constitue l’essence de l’objet technique peut
+                     en effet s’adapter de deux manières : il peut s’adapter d’abord aux
+                     conditions matérielles et humaines de sa production; chaque
+                     objet peut utiliser au mieux les caractéres électriques, mécaniques,
+                     ou encore chimiques des matériaux qui le constituent; il peut
+                     s'adapter ensuite à la tâche pour laquelle il est fait : ainsi, un
+                     pneumatique bon pour l’usage dans un pays froid pourra ne pas
+                     convenir à un pays chaud, et inversement; un avion fait pour les
+                     hautes altitudes pourra être gêné par la nécessité temporaire de
+                     fonctionner à basse altitude, et en particulier pour atterrir et
+                     décoller. Le moteur à réaction, qui est supérieur en raison même de
+                     son principe de propulsion au moteur à hélice pour les très hautes
+                     altitudes devient d’un emploi difficile à très basse altitude; la
+                     grande vitesse atteinte par un avion à réaction devient un caractère
+                     assez paralysant lorsqu’il s’agit de prendre contact avec le sol;
+                     la réduction de la surface portante, allant de pair avec l’usage du
+                     moteur à réaction, oblige à atterrir à très grande vitesse (presque
+                     la vitesse de croisière d’un avion à hélice), ce qui nécessite une
+                     piste d’atterrissage très longue.</p>
+                  <p>[...]</p>
+               </div>
+            </div>
+         </div>
+         
+      </body>
+  </text>
+</TEI>
