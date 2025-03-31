@@ -1,6 +1,6 @@
 # Transformation XSLT : extraits du "MEOT" de Gilbert Simondon
 
-Ce repository contient la transformation d'extraits de l'oeuvre la plus connue de Gilbert Simondon : *Du mode d'existence des objets techniques* (aussi abrégé *MEOT*).
+Ce repository contient la transformation d'extraits de l'oeuvre la plus connue de Gilbert Simondon, *Du mode d'existence des objets techniques*, encodé en XML/TEI. La transformation produit un "mini-site".
 
 ## Structure des fichiers
 
@@ -12,7 +12,7 @@ Ce repository contient la transformation d'extraits de l'oeuvre la plus connue d
   
   - out (contient les sorties issues de la transformation, à l'exception de style.css)
     
-    - index.html (home/accueil)
+    - index.html (home/accueil : cliquez sur ce fichier pour accéder au mini-site)
     
     - style.css
     
